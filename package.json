@@ -1,0 +1,19 @@
+{
+  "name": "wavenet",
+  "version": "1.0.0",
+  "description": "wavenet api utility",
+  "main": "wavenet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wavenet",
+    "text2speech"
+  ],
+  "author": "mtvs4u",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^4.1.0",
+    "commander": "^10.0.0"
+  }
+}
