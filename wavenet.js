@@ -11,9 +11,9 @@ const client = new textToSpeech.TextToSpeechClient();
  */
 const text = 'How are you, stranger?';
 
-async function getaudio(text, outputFilename)
+async function getaudio(text, outputFilename, voice)
 {
-    const request = {
+    var request = {
         input: {text: text},
         voice: {
             'languageCode':'en-us',
@@ -22,6 +22,12 @@ async function getaudio(text, outputFilename)
         },
         audioConfig: {audioEncoding: 'MP3'},
     };
+
+    if (voice == 'de') {
+        request.voice.languageCode = 'de-De';
+        request.voice.name = 'de-De-Wavenet-C';
+    }
+
     const [response] = await client.synthesizeSpeech(request);
     const writeFile = util.promisify(fs.writeFile);
     await writeFile(outputFilename, response.audioContent, 'binary');
@@ -44,6 +50,7 @@ async function main()
     .option('-o, --output <filename>', 'Path to output the generated mp3-file.', 'output.mp3')
     .option('-t, --text <text>', 'Text to be transformed via Wavenet')
     .option('-i, --input <input>', 'Text Input file')
+    .option('-l, --language <input>', 'Ausgabesprache')
     .parse(process.argv);
 
     const options = commander.opts();
@@ -56,7 +63,7 @@ async function main()
             inputText = options.input;
         }
         textinput = await readTextInput(inputText);
-        getaudio(textinput, outputFilename);
+        getaudio(textinput, outputFilename, options.language);
     }
 }
 
