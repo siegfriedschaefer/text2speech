@@ -48,7 +48,6 @@ async function main()
 
     const options = commander.opts();
 
-    console.log('output:', `${options.output}`);
     var textinput = options.text;
     const outputFilename = options.output;
 
@@ -57,7 +56,6 @@ async function main()
             inputText = options.input;
         }
         textinput = await readTextInput(inputText);
-        console.log(textinput);
         getaudio(textinput, outputFilename);
     }
 }
