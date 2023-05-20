@@ -1,0 +1,9 @@
+If you are interested in this tutorial, you should have already some knowledge
+about the technologies used by this tutorial.
+
+It is easier for you to follow if you know already something about the Web3 technology stack,
+Javascript coding, Smart contract development with Solidity, 3D Modeling with Blender or
+working with the Babylonjs Game Engine.
+
+If you are new to this topics, it will help if you have a look at my small PWA Workshop or Blender Demos
+on my Youtube channel Metaverse for you or mtvs4u.
