@@ -24,7 +24,3 @@ Don't expect a constant progress, but i try my best.
 If you have any questions, don't hesitate to ask me, but do not expect answers straight away, because i have to learn a lot, too, and i didn't have answers for everything or i have not the patience to answer.
 
 So let's dive in.
-
-
-
-
