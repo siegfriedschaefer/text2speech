@@ -1,0 +1,3 @@
+Make sure that the 3d cursor is placed at the world origin by pressing Shift S, Cursor to World Origin.
+
+Now we can begin to model the Pretzel.

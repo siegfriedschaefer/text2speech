@@ -1,0 +1,15 @@
+Hello everybody!
+
+Welcome to my new Blender modeling tutorial.
+
+Today we want to model a Swabian Pretzel in Blender which we want to use in our Vending Machine Dapp course.
+
+The characteristic features of a Swabian pretzel are its thick belly and thin ends.
+
+So, for a better understanding,let us first integrate our Swabian Pretzel reference image into Blender.
+
+Press Shift A, Image, Background and select the provided Reference image.
+
+We place it at the center of our workspace.
+
+
