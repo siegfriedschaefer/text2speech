@@ -1,0 +1,5 @@
+At the moment we have a closed circle, but what we want to have is an open one with two ends.
+
+So we select two weight points at the bottom and delete them.
+
+This gives us the possibility to extruse the ends according to our brezel figure.

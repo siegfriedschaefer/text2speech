@@ -1,0 +1,7 @@
+We model now the left hand side of the pretzel by extrusing the end point and
+adjusting it according to the reference image.
+
+But you have to be very careful in switching between extrusion and moving the weigth points
+because it is very easy to import to much edges and making the model to complicated.
+
+Also remember to do the modeling in top view so that you model the pretzel in one plane.
