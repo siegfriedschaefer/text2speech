@@ -1,0 +1,7 @@
+After we have finished the left hand side of the pretzel, we can start to model the right hand side of it
+with the same method. 
+
+Extrude the endpoint by pressing "e", 
+
+place the weighting point in a good strategic position and manipulate the handles till
+ you get a smooth curve which extrapolitate the pretzel.

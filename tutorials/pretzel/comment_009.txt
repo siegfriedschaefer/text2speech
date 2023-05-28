@@ -1,0 +1,3 @@
+As you can see, i try to manipulate the weighting points and their handles
+till i think to have a smooth looking curve which extrapolitate the left hand side of the pretzel as close
+as i could think about it.
