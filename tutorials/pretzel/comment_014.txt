@@ -1,0 +1,6 @@
+Let us start with the left endpoint which intersects with the pretzel at the bottom.
+
+We need to have one more weight point near the left hand side endpoint to move down that area more smoothly.
+
+We introduce this additional weight point by subdivision.
+

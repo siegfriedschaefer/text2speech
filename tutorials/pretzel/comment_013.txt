@@ -1,0 +1,6 @@
+Of course, this is just the idea of a swabian pretzel.
+
+We have to model out the details and start with the endpoints.
+
+As you can see in the reference image, the left hand endpoints is going under the pretzel, 
+the right hand endpoint is going over the pretzel.

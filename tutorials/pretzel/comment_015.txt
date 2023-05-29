@@ -1,0 +1,5 @@
+Place this new weight point near the endpoint,
+
+select this weightpoint and the endpoint and move both of them down by constraining to the Z axis.
+
+You can do this by pressing G and Z afterwards.
