@@ -1,0 +1,7 @@
+Now we can take care about the right site of the pretzel.
+
+We use the same method as on the left hand site.
+
+Select the two weight points at the end and move them at the top by constraining the z axis.
+
+You can do this by pressing G and than Z.
