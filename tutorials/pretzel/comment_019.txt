@@ -1,0 +1,5 @@
+As you can see, when we try to lower the loop, their is a ugly kink at the loop.
+
+We can solve this by adding an additional weight point.
+
+Let us select the next weight point to the right end and make a subdivision.

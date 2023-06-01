@@ -1,0 +1,8 @@
+We can convert the curve to a mesh by switching to object mode and select Object,
+
+Convert,
+
+Mesh.
+
+We have now converted the curve to a mesh and can go on to model the pretzel shape further.
+

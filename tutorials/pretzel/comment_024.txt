@@ -1,0 +1,5 @@
+This was the last action in curve editing mode.
+
+As you can see in the reference image, we have to enlarge some parts of the pretzel body, but we can't do this in
+curve editing mode, we have to switch to mesh editing mode.
+

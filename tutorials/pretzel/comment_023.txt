@@ -1,0 +1,6 @@
+We are now almost done with the curve editing of the pretzel.
+
+The endpoints need a little bit more attention, because i think they are too short.
+
+So we make one last extrusion of the endpoints to let them fit better with the reference image.
+

@@ -1,0 +1,4 @@
+We use the same method as we used by modeling the endpoints.
+
+Select the weight points of the right hand side of the loop and move them a little bit higher.
+

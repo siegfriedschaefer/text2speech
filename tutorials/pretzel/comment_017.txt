@@ -1,0 +1,7 @@
+Let us now have a look at the reference image again.
+
+We have one more problematic area, the intersection of the right and left hand site loops at the bottom junction.
+
+You can see, that the right loop first went over the left hand side loop and than it went under it.
+
+Let us try to model this area.
