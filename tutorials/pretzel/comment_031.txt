@@ -1,0 +1,4 @@
+First of all, select a good reference image.
+This will save you a lot of time at the end.
+
+The endpoints of a pretzel ALWAYS CONNECT ABOVE THE MAIN BODY, NEVER BELOW OF IT.

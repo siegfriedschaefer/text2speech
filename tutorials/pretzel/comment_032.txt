@@ -1,0 +1,3 @@
+The second point is that you should try to understand your problem domain.
+
+For example, the loop endpoints of a swabian pretzel should never overlap the main body.
