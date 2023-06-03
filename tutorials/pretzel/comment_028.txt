@@ -1,0 +1,5 @@
+At the end we close this endpoint by faceing it up.
+To do this, we need to select three or more vertices and then press the F key to create a face between them.
+The best way is to select four vertices to form a quad an than pressing the F key.
+Let us go into solid mode and doing this.
+

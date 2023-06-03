@@ -1,0 +1,5 @@
+We repeat the process with the left end loop.
+
+Selecting the last circle, extruding it, scale it down, repeat it three times and face up the end by selecting four vertices to form a quad
+and pressing the F key.
+

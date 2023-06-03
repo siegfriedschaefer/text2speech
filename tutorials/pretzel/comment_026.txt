@@ -1,0 +1,8 @@
+We start by finishing the loop endpoints.
+
+First of all, we have to be sure that we have selected the pivot point to be the median point of a selection.
+
+
+
+
+

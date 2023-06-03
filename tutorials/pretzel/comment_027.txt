@@ -1,0 +1,3 @@
+Next, we select the last circle of an end loop by pressing the "alt" key and selecting one segment of the end circle.
+
+After that, we extrude this selection multiple times and scale it down until we have a nice looking end.
