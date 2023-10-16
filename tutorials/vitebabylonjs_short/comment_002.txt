@@ -1,0 +1,2 @@
+First create a new project directory and clone my vite github repository.
+The link is in the description.

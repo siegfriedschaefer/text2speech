@@ -1,0 +1,3 @@
+Than install the project dependencies of the base vite project via the command 
+
+"npm i".

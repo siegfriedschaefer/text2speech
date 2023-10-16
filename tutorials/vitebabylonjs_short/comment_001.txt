@@ -1,0 +1,2 @@
+Hello everybody,
+you can setup a vite based babylonjs project in 1 minute by following these instructions.

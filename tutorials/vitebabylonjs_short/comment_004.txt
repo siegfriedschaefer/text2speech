@@ -1,0 +1,7 @@
+Do the same with any of the subprojects of the repository.
+
+After that run the command
+
+"npm run dev"
+
+and start your browser.
