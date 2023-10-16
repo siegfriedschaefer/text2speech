@@ -26,7 +26,13 @@ async function getaudio(text, outputFilename, voice)
     if (voice == 'de') {
         request.voice.languageCode = 'de-De';
         request.voice.name = 'de-De-Wavenet-C';
-    }
+    } else if (voice == 'fr') {
+        request.voice.languageCode = 'fr-FR';
+        request.voice.name = 'fr-FR-Wavenet-C';
+    } else if (voice == 'es') {
+        request.voice.languageCode = 'es-ES';
+        request.voice.name = 'es-ES-Wavenet-C';
+    } 
 
     const [response] = await client.synthesizeSpeech(request);
     const writeFile = util.promisify(fs.writeFile);

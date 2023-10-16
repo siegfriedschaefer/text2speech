@@ -1,1 +1,6 @@
 Finishing the right hand site of the pretzel allows us to go over to the curve manipulation.
+
+By having selected the BezierCircleobject in the Scenecollection, please select the object data properties tab.
+
+Go to Geometry, Bevel and adjust the depth of the Round attribute.
+

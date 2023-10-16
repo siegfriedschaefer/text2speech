@@ -2,3 +2,5 @@ We start to model the Pretzel with a Circle.
 Press Shift, A, select Curve and than Circle.
 
 Enhance the Circle to the Borders of the Pretzel.
+
+Be sure to switch into Edit Mode, so that you can manipulate the curve by the handles.
