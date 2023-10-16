@@ -12,6 +12,9 @@
 /build
 /builds
 
+# old projects
+/tutorials/sui_intro
+
 # misc
 .DS_Store
 .env.local
