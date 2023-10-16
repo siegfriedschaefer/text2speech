@@ -1,0 +1,8 @@
+Hello everybody,
+
+today i started with the first chapter of fast ai's course Practical Deep Learning for Coders.
+After reading some introduction material, I decided to setup fast ai's jupyter notebook at 
+Paperspace, which was very easy and straight forward AFTER upgrading to the Pro Plan.
+
+It just cost 8 Dollar per month and I can really recommend it.
+

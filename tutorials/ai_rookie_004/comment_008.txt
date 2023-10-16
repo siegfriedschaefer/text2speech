@@ -1,0 +1,10 @@
+Last, but not least, i wanted to have a white dog and a white cat sitting on the ground.
+
+But, wait, did you spot it?
+
+I spot two white dogs sitting at the ground.
+
+So we learn one more time something about Stable diffusion models:
+
+Do not trust the generated images!
+

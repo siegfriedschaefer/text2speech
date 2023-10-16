@@ -1,0 +1,5 @@
+The first task of the course is to setup a deep learning model which can
+differentiate between images of cats and images of dogs. 
+In other words, it is a classifier. The model uses a resnet34 network and was
+state of the art 10 years ago.
+ 

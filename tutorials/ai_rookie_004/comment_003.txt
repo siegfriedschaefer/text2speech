@@ -1,0 +1,14 @@
+After training the model you should test it with images of dogs and cats, downloaded from the internet.
+And so did I, but WAIT,
+why SEARCHING images from the net when we can use Generative AI to create specific images on our own?
+
+Leonardo AI to the rescue!
+
+I used the Photoreal Stable Diffusion model from Leonardo AI to produce these cute images from
+different black and white cats and dogs.
+
+I think this is a good usecase for Generative AI:
+
+Producing the Data you need to train and test Deep Learning Models.
+
+
