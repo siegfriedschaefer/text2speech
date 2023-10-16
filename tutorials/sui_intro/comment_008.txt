@@ -1,0 +1,7 @@
+It took around 25 seconds for the transaction to be settled on my SUI account.
+
+Not that bad!
+
+Of course this is no accurate measurement for transactions on the SUI network, but it
+gives you a hint about what is possible right now.
+

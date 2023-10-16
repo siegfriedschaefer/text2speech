@@ -1,0 +1,13 @@
+Hello everybody!
+
+In this tutorial I want to show you how to use the SUI wallet.
+
+Why i am interested in the SUI network?
+
+Well, i want to learn something about their development environment and the MOVE programming language.
+
+The Metaverse needs a scalable, fast and affordable infrastructure. 
+
+So let's dive in.
+
+

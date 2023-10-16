@@ -1,0 +1,1 @@
+After the installation you can directly create a new SUI wallet.

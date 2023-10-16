@@ -1,0 +1,2 @@
+First, you have to specify a wallet password to be able to unlock your wallet later on.
+Without it, you can't open the extention again and you loose access to this wallet entity.

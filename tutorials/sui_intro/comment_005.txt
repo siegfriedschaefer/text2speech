@@ -1,0 +1,7 @@
+After that the usual 12 word recovery phrase is created by the Wallet.
+This recovery phrase is the key to all your accounts you generate later on,
+so write them down on two papers and put them at two different save places.
+
+Trust me, you have to do this or you will loose access to your assets at some
+time in the future, because you will change your browser, mobile or notebook in the future
+and won't have access to the passphrase if you just store it on your device.
