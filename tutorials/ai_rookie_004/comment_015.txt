@@ -1,0 +1,3 @@
+Now let us try if the model can classify a white dog in a suit.
+
+Yes, it can classify it with a possibility of 0.00, which means that it is a dog.

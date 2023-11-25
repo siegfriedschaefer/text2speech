@@ -1,0 +1,14 @@
+So far the model has worked very well.
+But what happens if we try to let it classify something which is neither a cat nor a dog?
+
+Have a look at the classification of our AI Rookie logo.
+
+What? It is a cat with a possibility of 0.82?
+
+What's going wrong here?
+
+Well, i have got no idea, but this example demonstrates us that we have to be very careful
+in getting a model for granted.
+
+And it demonstrates us that we have to learn a lot about using these models, even the small ones.
+

@@ -1,0 +1,4 @@
+Since we reached a very good error rate with our classifier,
+we try our first image of a black cat.
+
+Well Done resnet34. It has regognized the black cat with a probability of 1.00!

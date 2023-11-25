@@ -1,0 +1,7 @@
+Now let us try to classify the white dog.
+
+We get a probability of nearly 0.
+
+The classification is correct.
+
+Isn't it magical?

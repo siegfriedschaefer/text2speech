@@ -1,0 +1,9 @@
+Now let us try something more complicated.
+
+What's about a cat and a dog at the same time?
+
+Well it is not a cat alone, but i had the impression that this task should not be that difficult, or?
+
+That happens if the training data did not incorporate something equivalent.
+
+And it is a problem which image segmentation can solve.

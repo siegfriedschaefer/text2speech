@@ -1,0 +1,3 @@
+Now it is time for our classifier model to have a look at the images.
+Does it regognize the cats and dogs?
+We have to train the resnet34 model first.

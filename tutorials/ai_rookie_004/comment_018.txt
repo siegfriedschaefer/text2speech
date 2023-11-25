@@ -1,0 +1,17 @@
+Coming to the end of this small demonstration,
+you should take the following points with you:
+
+First,
+A model is just as good or bad as the data it was trained on.
+
+Second,
+A classifier model can make a failure, don't trust it alone for making serious decisions.
+
+Third,
+You can use Stable diffusion to generate an image, but plan for haluzinations.
+
+
+Give me a like if you enjoyed this tutorial.
+
+Have a good day!
+

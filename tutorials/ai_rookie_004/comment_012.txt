@@ -1,0 +1,5 @@
+What's about our black dog?
+
+This is definitely not a cat and the probility of a dog to be a cat is nearly 0.
+
+The classification is correct!

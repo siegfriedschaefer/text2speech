@@ -1,0 +1,3 @@
+And now let us try the black dog in a suit.
+
+We get a classification of 0, which is correct.
