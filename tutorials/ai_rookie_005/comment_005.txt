@@ -1,0 +1,3 @@
+This sounds very difficult, but as you can see, coding it down in python eliminates the fear
+about it.
+ 

@@ -1,0 +1,17 @@
+It is that easy to calculate the derivative of a function at point x.
+
+I hope you got an intuition about the functionality of the derivative of a function,
+because if you understand this, you have understood the basics behind backpropagation and
+one of the intrinsics of all deep learning training algorithms.
+
+They all use backpropagation to learn by a method called stochastic gradient descent which
+uses derivatives to optimize the outcome of a neural network.
+
+But this is another story.
+
+As always you can download this notebook from my github repository and I advice you to do it.
+
+Understanding comes from Doing and you just need a little bit of time, VS Code and conda 
+to start with your journey.
+
+Have a good weekend!

@@ -1,0 +1,5 @@
+Now let us define the derivative of this function according to x.
+
+We use the limes formula of a derivative at point x of a function which is defined as
+the nearest distance h by x and calculating the the difference of the function at point (x+h) 
+minus the value of the function at point x, divided through h.

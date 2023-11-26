@@ -1,0 +1,3 @@
+Let us first define in python a random selected mathematical function.
+I define a parabolic function just for demonstration and it is really just arbitrally written down.
+

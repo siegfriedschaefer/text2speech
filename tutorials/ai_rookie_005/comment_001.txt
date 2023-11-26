@@ -1,0 +1,17 @@
+Hello everybody, on my journey to understand Deep learning, I always struggle with
+my intention to go to the secrets of the mathematical foundations of it.
+
+Why do I struggle?
+
+Because on one hand you can just use the trained models like llama 2 or gpt4all and
+enhance them on your needs, which is definitely something you need to understand  how to do this.
+
+But by following the recipies on how to use these models, I feel always like the Sorcerer's apprentice who does not know anything about what is really happening.
+
+To my rescue I found the youtube explanations of Andrei Karpathy and now I try to digest his wisdom in small steps.
+
+First of all, I need to understand the technic of "Backpropagation" to train a neural network.
+
+Everything starts with the derivation of a function.
+
+So let's dive in.
