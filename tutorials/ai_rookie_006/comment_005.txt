@@ -1,0 +1,4 @@
+As an example I show you the first image of the training data set.
+In the next intro I will show you how to interact programatically with this dataset.
+
+Have a good weekend!

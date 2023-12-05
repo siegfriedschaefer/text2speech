@@ -1,0 +1,16 @@
+Hello everybody,
+
+on my journey to understannd the intrinsics of Deep Learning,
+I am working through fast ai's chapter 2, called "Deployment".
+
+In this chapter we should develop our own Deep Learning Project,
+following Jeremy's Howard Drivetrain Approach.
+
+I decide to build a classifier for malignent melanomes using the
+ISIC 2020 Challenge Dataset from the Kaggle Competition.
+
+This short intro shows how easy it is to link a Dataset from Kaggle to your
+own Kaggle notebook environment.
+
+Enjoy!
+

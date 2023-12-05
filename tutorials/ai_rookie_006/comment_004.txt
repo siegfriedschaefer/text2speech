@@ -1,0 +1,1 @@
+And that's it. After a few seconds you can search through the dataset without copying it to your workspace.
