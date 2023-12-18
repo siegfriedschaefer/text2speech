@@ -1,0 +1,19 @@
+Hello everybody!
+
+In this short tutorial I will show you how you can access the linked ISIC melanoma dataset
+within your Kaggle python notebook.
+
+First we have to install the fastbook module from fast dot ai with pip.
+
+For easyness, we import everything from fastbook.
+
+Than we have to define the directory path to the dataset which is located in the input directory.
+
+After that you can access a reference image.
+
+Try it on your own, you can only learn it by doing it on your own, step by step.
+
+It is much better than your next netflix session, believe me.
+
+Have a good day!
+
