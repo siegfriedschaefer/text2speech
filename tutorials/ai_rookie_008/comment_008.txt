@@ -1,0 +1,8 @@
+We define a function link_images, which takes a list of filenames and links
+a number n of them as symlinks in our working area.
+
+That's our starting point to train our model.
+
+Thank you for watching, and don't forget to give me a subscribe if you like this tutorial.
+
+Good Bye!

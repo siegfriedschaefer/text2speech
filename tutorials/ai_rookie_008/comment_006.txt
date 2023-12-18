@@ -1,0 +1,1 @@
+Now we want to generate a list of all malignant images so that we can use them later on for training our modell.

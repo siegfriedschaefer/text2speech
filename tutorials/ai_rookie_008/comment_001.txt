@@ -1,0 +1,12 @@
+Hello again everybody!
+
+In this tutorial i will show you how to prepare the SIIM ISIC Melanoma Dataset so that
+we can use it to train our model.
+
+We have to solve two issues:
+
+1. How can we get the information about which images belong to benign melanoma and which are malignant?
+2. How can we setup the dataset that we can work with it using the fast ai library?
+
+So let us dive in!
+

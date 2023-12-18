@@ -1,0 +1,11 @@
+How can we get the metadata about the dataset?
+
+Examining it via Fileexplorer, we spot a file called train csv.
+
+Train csv contents attributes about the melanoma images which we can use for classification.
+For example for every image there is the information about the sex of the patient, how old he was,
+and if the melanoma was benign or malignant.
+
+So, how can we interpret this file? 
+
+We will use python's pandas module for that.

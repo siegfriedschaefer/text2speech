@@ -1,0 +1,5 @@
+We want to know how many images show benign melanoma and how many show malignant.
+
+So let us use the dataframe's magic to count them.
+
+As you can see, we have 32542 images in total. 584 of them show malignant melanoma.

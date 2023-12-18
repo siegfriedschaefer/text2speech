@@ -1,0 +1,12 @@
+At the current state of my knowledge, the fast ai framework wants to have its different classes sorted
+in different directories.
+
+We must reorganise the training jpeg images directory into one which contains only benign images and one
+which contains the malignant ones.
+
+Unfortunately with Kaggle, we have no write access to the input directory to reorganise the data there.
+Copying our data into the working directory does not work, too, because we have not enough space to do that.
+
+To come around this, we use a little trick to organise our files, using only symlinks to the real images and
+storing them into the working directory.
+

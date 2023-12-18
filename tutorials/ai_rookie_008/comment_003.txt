@@ -1,0 +1,1 @@
+Let us import the pandas module and let us read in the train csv file as a dataframe.

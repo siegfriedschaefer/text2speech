@@ -1,0 +1,2 @@
+As you can see, it is easy to read in the dataframe and get its stored information accessible.
+ 
