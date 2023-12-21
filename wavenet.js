@@ -11,16 +11,19 @@ const client = new textToSpeech.TextToSpeechClient();
  */
 const text = 'How are you, stranger?';
 
-async function getaudio(text, outputFilename, voice)
+async function getaudio(text, outputFilename, voice, pitch, speed)
 {
     var request = {
         input: {text: text},
         voice: {
             'languageCode':'en-us',
             'name':'en-US-Wavenet-F',
-            'ssmlGender': 'FEMALE'
+            'ssmlGender': 'FEMALE',
+            'pitch': 10.00,
+            'speakingRate': 2.00
         },
-        audioConfig: {audioEncoding: 'MP3'},
+        audioConfig: {audioEncoding: 'MP3', 'pitch': 0.00, 'speakingRate': 1.0
+        },
     };
 
     if (voice == 'de') {
@@ -32,7 +35,15 @@ async function getaudio(text, outputFilename, voice)
     } else if (voice == 'es') {
         request.voice.languageCode = 'es-ES';
         request.voice.name = 'es-ES-Wavenet-C';
-    } 
+    }
+
+    if (pitch) {
+        request.audioConfig.pitch = pitch;
+    }
+
+    if (speed) {
+        request.audioConfig.speakingRate = speed;
+    }
 
     const [response] = await client.synthesizeSpeech(request);
     const writeFile = util.promisify(fs.writeFile);
@@ -57,6 +68,8 @@ async function main()
     .option('-t, --text <text>', 'Text to be transformed via Wavenet')
     .option('-i, --input <input>', 'Text Input file')
     .option('-l, --language <input>', 'Ausgabesprache')
+    .option('-p, --pitch <input>', 'Pitch')
+    .option('-s, --speed <input>', 'Textspeed')
     .parse(process.argv);
 
     const options = commander.opts();
@@ -69,7 +82,7 @@ async function main()
             inputText = options.input;
         }
         textinput = await readTextInput(inputText);
-        getaudio(textinput, outputFilename, options.language);
+        getaudio(textinput, outputFilename, options.language, options.pitch, options.speed);
     }
 }
 
