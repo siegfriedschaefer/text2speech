@@ -1,0 +1,3 @@
+After that we setup our training data set.
+
+You can follow this process in detail our our third video tutorial.

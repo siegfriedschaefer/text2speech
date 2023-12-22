@@ -1,0 +1,6 @@
+And as you can see, here we have our first batch of benign and malignant melanoma images.
+
+In the next tutorial we speek a little bit about how we can prepare the images itself to not emphasize specific attributes on them
+which has nothing to do with our main goal to classify new melanoma pictures.
+
+Have a good time!

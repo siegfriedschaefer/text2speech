@@ -1,0 +1,2 @@
+We start with the examination of our train csv metadata file using the pandas module
+to get a list of all benign and malignant images.

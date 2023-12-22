@@ -1,0 +1,4 @@
+We are trying to setup a Dataloaders using our prepared melanoma training set.
+
+The interesting part for me is if it is possible for the Dataloaders function to
+work with our Dataset, because this is the first step to be able to train our classifier model.

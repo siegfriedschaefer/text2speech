@@ -1,0 +1,5 @@
+Hello everybody,
+
+after setting up our training dataset, shown in the last three tutorials,
+I want you to demonstrate the first steps to work with the fast dot ai framework.
+
