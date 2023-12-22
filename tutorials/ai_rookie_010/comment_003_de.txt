@@ -1,0 +1,8 @@
+In diesem YouTube-Short stelle ich Ihnen mein neues Open Source K I Projekt vor, 
+das die Möglichkeit untersucht, Hautkrebserkennung lokal auf einem Android-Smartphone zu implementieren.
+
+Ich werde zuerst ein entsprechendes K I Modell in der Cloud trainieren
+und dann versuchen dieses Modell Zug um Zug zu einer Android App zu transformieren.
+
+Dadurch bleiben alle Gesundheitsdaten und Analysen privat und sicher auf dem eigenen Smartphone gespeichert.
+
