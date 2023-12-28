@@ -1,6 +1,0 @@
-Would you like to find out more about my project? 
-Then subscribe to my channel and stay up to date.
-
-Or clone the Github repository or the Kaggle Notebook and become part of the project.
-
-I look forward to your participation.

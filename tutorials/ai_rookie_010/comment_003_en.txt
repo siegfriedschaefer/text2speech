@@ -1,7 +1,0 @@
-In this YouTube short, I introduce you to my new open source K I project, 
-which explores the possibility of implementing skin cancer detection locally on an Android smartphone.
-
-I will first train a corresponding K I model in the cloud
-and then try to transform this model step by step into an Android app.
-
-This will keep all health data and analyses private and securely stored on your own smartphone.

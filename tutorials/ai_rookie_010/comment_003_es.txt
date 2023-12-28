@@ -1,7 +1,0 @@
-En este corto de YouTube, les presento mi nuevo proyecto K I de código abierto, 
-que explora la posibilidad de implementar la detección del cáncer de piel localmente en un smartphone Android.
-
-Primero entrenaré un modelo K I correspondiente en la nube
-y luego intentaré transformar este modelo paso a paso en una aplicación Android.
-
-De este modo, todos los datos y análisis de salud serán privados y estarán almacenados de forma segura en tu propio smartphone.
