@@ -1,0 +1,3 @@
+Having done this, I model the tip of the water drop by extruding the top most
+loop ring three times and scale them accordingly.
+

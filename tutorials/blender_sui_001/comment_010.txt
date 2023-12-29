@@ -1,0 +1,2 @@
+Now I select the top most loop ring by clicking at it while pressing the "Option" key.
+After selecting it I move it at the top of the waterdrop by pressing "G" and constrain it to the z Axis.
