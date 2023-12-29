@@ -1,0 +1,1 @@
+First I delete all of the default components by selecting all of them by typing "a", "a", following by "x".

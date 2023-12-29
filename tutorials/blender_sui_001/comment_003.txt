@@ -1,0 +1,11 @@
+Since my Mac Pro hasn't got a Numpad, I have to switch on the Numpad Emulation.
+You can find it under 
+
+Edit
+
+Preferences
+
+Input
+
+and activating the Emulate Numpad checkbox.
+  

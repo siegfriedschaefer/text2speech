@@ -1,0 +1,11 @@
+Next I have to setup the Sui Logo as an background reference image.
+typing
+
+Shift a,
+
+image
+
+Background image
+
+does the job.
+

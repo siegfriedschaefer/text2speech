@@ -1,0 +1,2 @@
+I scale the UV Sphere according to the reference image by pressing "S"
+and than I switch to the Edit mode with "Tab" and select the wireframe format. 

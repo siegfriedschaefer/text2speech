@@ -1,0 +1,9 @@
+Now I start to model the Sui water drop logo.
+
+I start with adding U V Sphere by pressing
+
+Shift
+
+a
+
+and selecting the U V Sphere.

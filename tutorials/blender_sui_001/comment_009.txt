@@ -1,0 +1,6 @@
+Now we can start to model the top of the Sui water drop.
+
+We switch into the Edit Mode, deselect everything and select only the top most vertice to delete it.
+
+The reason for this is that the following loop ring manipulations are easier with that.
+
