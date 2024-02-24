@@ -1,0 +1,10 @@
+This tutorial shows you how to build a Metaverse Dapp.
+It shows you all the steps needed to offer a virtual Swabian Pretzel to your Dapp users.
+The Pretzel is offered to your users via a Pretzel Vending Machine.
+The Vending Machine's business logic is implemented as a Smart Contract in Solidity,
+it's Augmented Reality representation runs in a WebXR environment implemented by Babylon js.
+
+This tutorial is a work in progress.
+
+I will add more stuff with the time, so if you are interested, 
+subscribe to my channel.

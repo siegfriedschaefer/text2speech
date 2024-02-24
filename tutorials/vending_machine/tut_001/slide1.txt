@@ -1,0 +1,14 @@
+Hello everybody!
+
+Welcome to my Swabian Pretzel Vending Machine Metaverse Dapp Tutorial introduction.
+
+Building the Metaverse is hard, VERY HARD.
+
+But we don't do this because it is easy, but because it is ... you know the answer, right?
+
+This tutorial shows you nearly everything you need to build and code a small Augmented Reality Application
+running on a mobile Web environment which supports WebXR.
+
+So let's have some fun!
+
+
