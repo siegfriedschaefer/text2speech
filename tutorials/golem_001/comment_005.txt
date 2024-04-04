@@ -1,0 +1,8 @@
+So let me introduce the Golem Network.
+
+First I want to give you a short definition of the Golem Network,
+
+than i want to tell something about the different roles of the participants of the network,
+
+and than we will have a look at Golem's architecture.
+

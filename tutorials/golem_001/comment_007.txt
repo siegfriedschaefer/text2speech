@@ -1,0 +1,11 @@
+In the Golem Network compute nodes can participate as a provider node or a requestor node.
+
+The default implementation of the service is called YAGNA.
+
+A Provider shares its unused compute resources like CPU, GPU, memory and storage for Requestors in exchange of the utility token GLM.
+
+The micropayment is most often executed through the Polygon network.
+
+The mainnet is used for normal paid operations, Ethereums Holesky testnet is used for development.
+
+

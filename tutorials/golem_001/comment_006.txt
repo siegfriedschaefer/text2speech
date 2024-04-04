@@ -1,0 +1,8 @@
+What is the Golem Network?
+
+Golem Network is an open-source decentralized p2p platform where everyone can use and share each other's computing power without relying on centralized entities.
+
+It establishes a decentral marketplace for compute demands like AI and Data analytics and offers it services as a Dectralized Physical Infrastructure Network (DePIN).
+
+Participants of the Golem Network offer and pay these services through the utility token GLM.
+
