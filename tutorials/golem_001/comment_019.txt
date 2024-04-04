@@ -1,0 +1,7 @@
+With the two configuration files in hand, we can now try to setup our compute job.
+
+We start the yagna service in one terminal and try to identify the app-key for our requestor via the command ,yagna app-key show requestor. 
+
+We have to announce to the network that we want act as a requestor via the command ,yagna payment init --sender.
+
+Than we have to setup our requestor app key via “export YAGNA_APPKEY = requestor_appkey and finally start the dapp-runner application.

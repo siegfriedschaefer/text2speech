@@ -1,0 +1,4 @@
+If everything was setup correctly, a compute node at the Golem Network takes over the job and creates a new compute instance.
+
+You can connect to it via a local http-proxy initiated from the local yagna service to the remote instance by your local browser,
+by using the promoted url.

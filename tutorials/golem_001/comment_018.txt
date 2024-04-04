@@ -1,0 +1,3 @@
+Than we define a compute job in form of an additional configuration file called base_app yaml.
+
+The tag image_hash defines the Golem Image we want to run on the network and is defined in the registry.
