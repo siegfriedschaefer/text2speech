@@ -1,0 +1,14 @@
+Hello Galactopians,
+
+ever heard about DePIN, Decentralised Physical Infrastructure Networks?
+
+Welcome to my tutorial about the Golem Network.
+
+In this tutorial I want to show you how to build, deploy and use a static Threejs Webapp on the Golem Network.
+
+After that you will have an idea about what the hell a DePIN is.
+
+So let's dive in.
+
+
+
