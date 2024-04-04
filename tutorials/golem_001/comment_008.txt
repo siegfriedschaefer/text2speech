@@ -1,0 +1,13 @@
+The Yagna service is the heart of the Golem Network.
+
+Yagna establishes a Peer to Peer Network between all participants, providing the communication infrastructure for the compute marketplace.
+
+The Polygon Network establishes the payment infrastructure for the Golem Network.
+
+Builders can store their solutions in a public Image registy.
+
+They do this via a transformed Docker image which is made compatible with the Golem Runtime via a specific build tool.
+
+Compute providers offer their services via the Marketplace as an anonymous participant which get selected by the Golem Network
+ if the compute needs of a requestor fits with the provider's offering.
+

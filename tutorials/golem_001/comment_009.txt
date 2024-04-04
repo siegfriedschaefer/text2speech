@@ -1,0 +1,7 @@
+I will show you the different steps which are needed to deploy an solution on the Golem Network.
+
+We will build a static node js web application which serves a simple three js page and put it into a Docker image.
+
+Than we transform this Docker image to a Golem Image that we can deploy it to the Golem registry.
+
+After that we will act as a requestor to run this image on a provider node.
