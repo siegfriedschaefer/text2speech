@@ -1,0 +1,5 @@
+Once the image is stored in Golem’s registry everyone can use it to let it run on one of the compute nodes provided by Golem’s providers.
+
+We will now take over the role of a requestor and create a compute job by using Golem’s dapp-runner tool.
+
+First we have to define a configuration for the compute job.

@@ -1,0 +1,3 @@
+The gvmkit-build tool not only prepares a Dockerimage to be used be Golem, it can also be used to deploy the new Golem Image to Golem’s image repository.
+
+Anyone can sign in at Golem's image registry to deploy a Golem image which than can be used by Golem’s compute providers.

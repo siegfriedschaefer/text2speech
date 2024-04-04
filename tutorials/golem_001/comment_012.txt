@@ -1,0 +1,2 @@
+This simple Dockerfile defines our Docker Image.
+As you can see, we expose Port 8085 to the outer world.

@@ -1,0 +1,3 @@
+We build a small express js Webserver Application which serves our three js application and define a Dockerimage out of it.
+The express js app serves the content of a public folder which holds our static Three js app and listens on all network interfaces.
+The source code of the express js application is accessible on github.

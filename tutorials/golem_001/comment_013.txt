@@ -1,0 +1,3 @@
+Calling the buildx docker command builds our newly defined image so that we can test it before transferring it to a Golemimage.
+After running the container image, you can access the Webapp via localhost:8085.
+

@@ -1,0 +1,5 @@
+First we have to define which payment network we want to use.
+
+We are doing this by setting up a golem config yaml file where we define to use Ethereum’s Goerli testnet as the payment platform.
+
+Remember that you have to fund your requestor wallet first with the “yagna payment fund” command.

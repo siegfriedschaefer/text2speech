@@ -1,0 +1,4 @@
+Building a Golemimage out of a Dockerimage is easy.
+
+We just have to call the provided buildtool gvmkit-build from Golem and give it the name of the Dockerimage we have created in the last step.
+
