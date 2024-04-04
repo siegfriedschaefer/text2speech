@@ -1,0 +1,12 @@
+Let me summarise what we have learned during this lesson.
+
+- Golem Network provides decentralized computing power
+
+- Application Registry is open for everyone
+
+- Marketplace is very in-transparent
+
+- Current state feels like a technical Proof Of Concept
+
+- Base infrastructure ready, but there are lot of moving parts
+
