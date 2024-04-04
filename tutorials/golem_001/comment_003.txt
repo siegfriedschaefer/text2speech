@@ -1,0 +1,10 @@
+If you do know bash scripting and the Docker environment and if you are familiar with Linux or MacOS and some Web3 concepts
+ this tutorial is for you.
+
+It would not take that much time to follow the slides, I try to summarise the concepts behind
+the Golem Network as dense as possible.
+
+
+
+
+
