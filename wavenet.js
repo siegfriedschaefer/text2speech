@@ -11,7 +11,7 @@ const client = new textToSpeech.TextToSpeechClient();
  */
 const text = 'How are you, stranger?';
 
-async function getaudio(text, outputFilename, voice, pitch, speed)
+async function getaudio(text, outputFilename, voice, pitch, speed, encoding)
 {
     var request = {
         input: {text: text},
@@ -45,6 +45,10 @@ async function getaudio(text, outputFilename, voice, pitch, speed)
         request.audioConfig.speakingRate = speed;
     }
 
+    if (encoding) {
+        request.audioConfig.audioEncoding = encoding;
+    }
+
     const [response] = await client.synthesizeSpeech(request);
     const writeFile = util.promisify(fs.writeFile);
     await writeFile(outputFilename, response.audioContent, 'binary');
@@ -70,6 +74,7 @@ async function main()
     .option('-l, --language <input>', 'Ausgabesprache')
     .option('-p, --pitch <input>', 'Pitch')
     .option('-s, --speed <input>', 'Textspeed')
+    .option('-e, --encoding <input>', 'Encoding')
     .parse(process.argv);
 
     const options = commander.opts();
@@ -82,7 +87,7 @@ async function main()
             inputText = options.input;
         }
         textinput = await readTextInput(inputText);
-        getaudio(textinput, outputFilename, options.language, options.pitch, options.speed);
+        getaudio(textinput, outputFilename, options.language, options.pitch, options.speed, options.encoding);
     }
 }
 
